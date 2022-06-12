@@ -12,16 +12,13 @@ After that I learned User Experience and User Interface design and I made a good
 ## GitHub Stats 📈
 <div>
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bodykh"GitHub Stats" /> <br/><br/>
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
+        <img src="https://github-readme-stats.vercel.app/api?username=bodykh&theme=blue-green" alt="WakaTime" />                                                                                           
   </p>
 </div>
                                                                                                   
-                                                                                               
-![](https://github-readme-stats.vercel.app/api?username=bodykh&theme=blue-green)
-
 ## Skills 🤹
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
