@@ -2,18 +2,18 @@
 
 [![Profile Visitor](https://visitor-badge.laobi.icu/badge?page_id=bodykh.bodykh)](https://github.com/bodykh) [![GitHub Followers](https://img.shields.io/github/followers/bodykh.svg?style=social&label=Followers)](https://github.com/bodykh?tab=followers)
 
-## &#x1f4c8; About me 👨‍💻
+## About me 👨‍💻
 <p>I am Abdulrahman Khaled Hassan, a student at the Faculty of Computers and Information at Suez University, I joined the university in 2019 and is expected to graduate in 2023.
 
 I majored in computer science and studied different programming languages ​​such as Java, C++, C#, Dart and Python and some design or markup langauages such as XML, Json, Html and CSS, and then I focus on mobile applications development using Android Native (Java and Kotlin).
 
 After that I learned User Experience and User Interface design and I made a good stride in the field with work and study, and now I am able to design complete applications based on the principles of Ux.</p>
 
-## &#x1f4c8; GitHub Stats 📈
+## GitHub Stats 📈
 ![](https://github-readme-stats.vercel.app/api?username=bodykh&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bodykh&theme=blue-green)
 
-## &#x1f4c8; Skills 🤹
+## Skills 🤹
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -35,8 +35,8 @@ After that I learned User Experience and User Interface design and I made a good
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-## &#x1f4c8; Contact me 📩
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/bodykh/)
+## Contact me 📩
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bodykh/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodyono3@gmail.com)
 
