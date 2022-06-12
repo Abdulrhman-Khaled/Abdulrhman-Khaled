@@ -36,7 +36,7 @@ After that I learned User Experience and User Interface design and I made a good
 
 
 ## &#x1f4c8; Contact me 📩
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bodykh/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/bodykh/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodyono3@gmail.com)
 
@@ -45,5 +45,3 @@ After that I learned User Experience and User Interface design and I made a good
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdalrahman.khaled.54)
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/bodygames-a)
-
-[![Instagram](https://www.instagram.com/bodykh_/)](https://www.facebook.com/abdalrahman.khaled.54)
