@@ -10,8 +10,17 @@ I majored in computer science and studied different programming languages ​​
 After that I learned User Experience and User Interface design and I made a good stride in the field with work and study, and now I am able to design complete applications based on the principles of Ux.</p>
 
 ## GitHub Stats 📈
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bodykh"GitHub Stats" /> <br/><br/>
+  <b><em>Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
+  </p>
+</div>
+                                                                                                  
+                                                                                               
 ![](https://github-readme-stats.vercel.app/api?username=bodykh&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bodykh&theme=blue-green)
 
 ## Skills 🤹
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
