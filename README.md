@@ -21,7 +21,7 @@ After that I learned User Experience and User Interface design and I made a good
   </p>
 </div>
                                                                                                   
-## Skills 🤹
+## My Skills 🤹
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
