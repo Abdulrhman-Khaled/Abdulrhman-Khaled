@@ -4,7 +4,7 @@
 <h2>Hello everybody to my Github profile! 👋👋 </h2>
 
 
-[![Profile Visitor](https://visitor-badge.laobi.icu/badge?page_id=Abdulrhman-Khaled)](https://github.com/Abdulrhman-Khaled) [![GitHub Followers](https://img.shields.io/github/followers/Abdulrhman-Khaled.svg?style=social&label=Followers)](https://github.com/Abdulrhman-Khaled?tab=followers)
+[![Profile Visitor](https://komarev.com/ghpvc/?username=Abdulrhman-Khaled&label=PROFILE+VIEWS)](https://github.com/Abdulrhman-Khaled) [![GitHub Followers](https://img.shields.io/github/followers/Abdulrhman-Khaled.svg?style=social&label=Followers)](https://github.com/Abdulrhman-Khaled?tab=followers)
 
 ## About me 👨‍💻
 <p>I am Abdulrahman Khaled Hassan, a student at the Faculty of Computers and Information at Suez University, I joined the university in 2019 and is expected to graduate in 2023.
