@@ -4,7 +4,7 @@
 <h2>Hello everybody to my Github profile! 👋👋 </h2>
 
 
-[![Profile Visitor](https://visitor-badge.laobi.icu/badge?page_id=bodykh.bodykh)](https://github.com/bodykh) [![GitHub Followers](https://img.shields.io/github/followers/bodykh.svg?style=social&label=Followers)](https://github.com/bodykh?tab=followers)
+[![Profile Visitor](https://visitor-badge.laobi.icu/badge?page_id=Abdulrhman-Khaled.Abdulrhman-Khaled)](https://github.com/Abdulrhman-Khaled) [![GitHub Followers](https://img.shields.io/github/followers/Abdulrhman-Khaled.svg?style=social&label=Followers)](https://github.com/Abdulrhman-Khaled?tab=followers)
 
 ## About me 👨‍💻
 <p>I am Abdulrahman Khaled Hassan, a student at the Faculty of Computers and Information at Suez University, I joined the university in 2019 and is expected to graduate in 2023.
@@ -44,9 +44,9 @@ After that I learned User Experience and User Interface design and I made a good
 
 
 ## Contact me 📩
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bodykh/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrhmankhaled/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodyono3@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrhmankhaled07@gmail.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01148472090)
 
