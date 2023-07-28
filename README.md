@@ -19,8 +19,8 @@ After that I learned User Experience and User Interface design and I made a good
 ## GitHub Stats 📈
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrhman-Khaled&show_icons=true&theme=radical" /> <br/>   
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdulrhman-Khaled&show_icons=true&theme=radical" /> <br/>  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrhman-Khaled&show_icons=true&theme=shadow_red" /> <br/>   
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdulrhman-Khaled&show_icons=true&theme=shadow_red" /> <br/>  
   </p>
 </div>
                                                                                                   
