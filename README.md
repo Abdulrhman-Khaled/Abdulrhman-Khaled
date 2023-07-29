@@ -6,7 +6,7 @@
 [![Profile Visitor](https://komarev.com/ghpvc/?username=Abdulrhman-Khaled&label=PROFILE+VIEWS)](https://github.com/Abdulrhman-Khaled) [![GitHub Followers](https://img.shields.io/github/followers/Abdulrhman-Khaled.svg?style=social&label=Followers)](https://github.com/Abdulrhman-Khaled?tab=followers)
 
 ## About me 👨‍💻
-<p>Hello, I am Abdulrahman Khaled Hassan, a student at the Faculty of Computers and Information at Suez University, I joined the university in 2019 and graduated in 2023.
+<p>Hello, I am Abdulrahman Khaled Hassan, a junior mobile developer, i was a student at the Faculty of Computers and Information at Suez University, I joined the university in 2019 and graduated in 2023.
 
 I majored in computer science and studied different programming languages ​​such as Java, C++, C#, Dart and Python and some design or markup langauages such as XML, Json, Html and CSS, and then I focus on mobile applications development using Android Native (Java and Kotlin).
 
