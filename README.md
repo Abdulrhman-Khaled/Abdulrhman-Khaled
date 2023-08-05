@@ -10,7 +10,7 @@
 
 I majored in computer science and studied different programming languages ​​such as Java, C++, C#, Dart and Python and some design or markup langauages such as XML, Json, Html and CSS, and then I focus on mobile applications development using Android Native (Java and Kotlin).
 
-After that I turned to cross platform technologies and studied Dart to use Flutter framework to build mobile applications.
+After that I turned to cross platform technologies and studied Dart to use Flutter framework to build mobile applications to android and ios.
 
 Now I'm able to design and develop complete applications works on different versions of smart phones such as Android and iOS.
 
