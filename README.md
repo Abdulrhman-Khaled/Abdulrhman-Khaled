@@ -2,7 +2,7 @@
 
 <div>
   <p align="center">   
-<img src="https://github.com/Abdulrhman-Khaled/Abdulrhman-Khaled/assets/58918060/db27e5fc-5a0f-41ec-8215-c62941280524" /> <br/> 
+<img src="https://github.com/Abdulrhman-Khaled/Abdulrhman-Khaled/assets/58918060/db27e5fc-5a0f-41ec-8215-c62941280524" width=1000 /> <br/> 
   </p>
 </div>
 
