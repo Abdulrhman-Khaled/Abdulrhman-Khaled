@@ -19,7 +19,7 @@ After that I learned User Experience and User Interface design and I made a good
 ## GitHub Stats 📈
 <div>
   <p align="center">    
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulrhman-Khaled&theme=solarized" /> <br/> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulrhman-Khaled&theme=solarized" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulrhman-Khaled&theme=solarized"/> <br/>  
   </p>
 </div>
