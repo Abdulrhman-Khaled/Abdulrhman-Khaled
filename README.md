@@ -16,7 +16,7 @@ I majored in computer science and studied different programming languages ​​
 
 After that I turned to cross platform technologies and studied Dart to use Flutter framework to build mobile applications to android and ios.
 
-Now I'm able to design and develop complete applications works on different versions of smart phones such as Android and iOS.
+Now I'm able to design and develop complete applications works on different versions of smart phones like Android and iOS.
 
 After that I learned User Experience and User Interface design and I made a good stride in the field with work and study, and I am able to design complete applications and websites based on the principles of Ux.</p>
 
