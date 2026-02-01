@@ -1,6 +1,4 @@
-<h2>Hello everybody to my Github profile!</h2>
-
-  <div>
+<div>
   <p align="center">   
 <img src="https://github.com/Abdulrhman-Khaled/Abdulrhman-Khaled/assets/58918060/db27e5fc-5a0f-41ec-8215-c62941280524" width=1000 />
   </p>
